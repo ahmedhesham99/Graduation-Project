@@ -18,14 +18,14 @@
 -check and track orders
 
 
-##Distributors Interface Features
+## Distributors Interface Features
 
 -edit personal information
 -add fertilizers to cart and check cart
 -place orders and view and track them 
 
 
-##Admin Features
+## Admin Features
 
 -Ability to: view,edit and delete crops and fertilizers
 -Ability to: view, accept,reject and waste food requests and update their status with the ability to add comments
