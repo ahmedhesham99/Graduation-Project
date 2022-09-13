@@ -1,3 +1,7 @@
+# Waste Food Management Web App
+- using pure php , mysql , html , css , and java script
+- the files on this repo are presentation for the back end used not all the project's files 
+
 # Idea in brief 
 
 - The Web application represent company specialized in the production of organic fertilizers and crops.facing one of the most important problems nowadays which is how to manage waste food.
