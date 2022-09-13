@@ -1,6 +1,6 @@
 # Waste Food Management Web App
 - using pure php , mysql , html , css , and java script
-- the files on this repo are presentation for the back end used not all the project's files 
+- the files on this repo are presentation for the backend codes used not all the project files 
 
 # Idea in brief 
 
@@ -33,8 +33,8 @@
 
 - Ability to: view,edit and delete crops and fertilizers
 - Ability to: view, accept,reject and waste food requests and update their status with the ability to add comments
-- Ability to: view, accept,reject and cancel Suppliers orders with the ability to add comments
-- Ability to: view, accept,reject and cancel distributors orders with the ability to add comments
+- Ability to: view, accept,reject and cancel Suppliers' orders with the ability to add comments
+- Ability to: view, accept,reject and cancel distributors' orders with the ability to add comments
 - Ability to: view,delete Suppliers and distributors
 
 ## What the app looks like 
