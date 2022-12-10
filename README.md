@@ -1,6 +1,6 @@
 # Waste Food Management Web App
-- using pure php , mysql , html , css , and java script
-- the files on this repo are presentation for the backend codes used not all the project files 
+- using pure PHP, MYSQL, HTML, CSS and Javascript
+- the files on this repo are a presentation for the backend codes used not all the project files 
 
 # Idea in brief 
 
