@@ -4,11 +4,11 @@
 
 # Idea in brief 
 
-- The Web application represent company specialized in the production of organic fertilizers and crops.facing one of the most important problems nowadays which is how to manage waste food.
-- By taking all the food waste from hotels, restaurants, and clubs  and convert it to organic fertilizers.
-- and also sell those organic fertilizers to our distributors and use them to produce other organic crops to sell them to the suppliers of waste food with the ability of them to use the discounts they have which is based on the waste food they provided 
-- each of suppliers and distributors have unique signup page and special interface but both login from the same page
-- admin version has unique signup and signin and interface to manage the operations
+- The Web application represents company specializing in the production of organic fertilizers and crops. facing one of the most important problems nowadays which is how to manage waste food.
+- By taking all the food waste from hotels, restaurants, and clubs and converting it to organic fertilizers.
+- and also sell those organic fertilizers to our distributors and use them to produce other organic crops to sell them to the suppliers of waste food with the ability of them to use the discounts they have which are based on the waste food they provided.
+- each supplier and distributors have a unique signup page and special interface but both login from the same page
+- admin version has unique signup and sign in and interface to manage the operations
 
 
 ## Suppliers Interface Features
@@ -16,26 +16,26 @@
 - edit personal information
 - sending waste food and tracking the status
 - receive discounts and check their status
-- they can only use thier discount if its status is available which is automatically updated when the admin update the related waste status to received
-- add crops to cart and check cart
-- ability to apply the preferred available discount and the place orders
+- they can only use their discount if its status is available which is automatically updated when the admin update the related waste status to received
+- add crops to the cart and check it
+- the ability to apply the preferred available discount and the place orders
 - check and track orders
 
 
 ## Distributors Interface Features
 
 - edit personal information
-- add fertilizers to cart and check cart
+- add fertilizers to the cart and check it
 - place orders and view and track them 
 
 
 ## Admin Features
 
-- Ability to: view,edit and delete crops and fertilizers
-- Ability to: view, accept,reject and waste food requests and update their status with the ability to add comments
-- Ability to: view, accept,reject and cancel Suppliers' orders with the ability to add comments
-- Ability to: view, accept,reject and cancel distributors' orders with the ability to add comments
-- Ability to: view,delete Suppliers and distributors
+- Ability to view, edit and delete crops and fertilizers
+- Ability to view, accept,reject and waste food requests and update their status with the ability to add comments
+- Ability to view, accept,reject and cancel Suppliers' orders with the ability to add comments
+- Ability to view, accept,reject and cancel distributors' orders with the ability to add comments
+- Ability to view, delete Suppliers and distributors
 
 ## What the app looks like 
 
